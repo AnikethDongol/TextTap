@@ -1,0 +1,21 @@
+/* Featured Blogs Image */
+.blog-img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+  }
+  
+  /* About the Blogger Image */
+  .blogger-img {
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+  }
+  
+  /* Social Media Icons Image */
+  .social-media-img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
+  
