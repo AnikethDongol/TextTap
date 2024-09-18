@@ -26,7 +26,7 @@ const AboutUs = () => {
       <section className="my-5">
         <div className="row align-items-center">
           <div className="col-md-6">
-            <img src="./src/assets/mission.jpg" className="img-fluid fixed-size-img" alt="Our Mission" />
+            <img src="https://th.bing.com/th/id/R.6835fc67ce2a6861874b06ac1056330b?rik=FqXc7L9FmAPB7g&pid=ImgRaw&r=0" className="img-fluid fixed-size-img" alt="Our Mission" />
           </div>
           <div className="col-md-6">
             <h2>Our Mission</h2>
