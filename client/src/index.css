@@ -27,6 +27,7 @@
   height: 30px;
   object-fit: cover;
 }
+
 /* Footer Links */
 .footer-links a {
   text-decoration: none;
@@ -158,4 +159,88 @@ h4 {
 .privacy-email:hover {
   color: #0056b3;
   text-decoration: underline;
+}
+
+/* SignIn */
+.signin-page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.signin-container {
+  flex-grow: 1;
+  max-width: 450px;
+  margin: auto; /* Center the form on the page */
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.signin-form {
+  margin-top: 20px;
+}
+
+.signin-form input {
+  margin-bottom: 15px;
+}
+
+
+/* SignUp */
+.signup-page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.signup-container {
+  flex-grow: 1;
+  max-width: 450px;
+  margin: auto; /* Center the form on the page */
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.signup-form {
+  margin-top: 20px;
+}
+
+.signup-form input {
+  margin-bottom: 15px;
+}
+
+/* CSS for Contact Component */
+.contact-page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.contact-container {
+  flex-grow: 1;
+  max-width: 600px;
+  margin: auto; /* Center the form on the page */
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.contact-form {
+  margin-top: 20px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  margin-bottom: 15px;
+}
+
+.custom-image {
+  width: 800px;
+  height: 500px;
+  object-fit: cover; /* Ensures images cover the area without distortion */
+  border-radius: 8px; /* Optional: Adds rounded corners */
 }

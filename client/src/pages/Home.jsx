@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import '../index.css'; 
+import '../index.css';
 
 const Home = () => {
   return (
@@ -29,7 +29,7 @@ const Home = () => {
                   <p className="card-text">
                     Stay ahead of the curve with insights into the latest technology trends.
                   </p>
-                  <Link to="/blog/tech-trends" className="btn btn-outline-primary">Read More</Link>
+                  <Link to="/tech-trends-2024" className="btn btn-outline-primary">Read More</Link>
                 </div>
               </div>
             </div>
@@ -42,7 +42,7 @@ const Home = () => {
                   <p className="card-text">
                     Simplify your life with practical tips on adopting a minimalist lifestyle.
                   </p>
-                  <Link to="/blog/minimalist-living" className="btn btn-outline-primary">Read More</Link>
+                  <Link to="/minimalist-living" className="btn btn-outline-primary">Read More</Link>
                 </div>
               </div>
             </div>
@@ -55,7 +55,7 @@ const Home = () => {
                   <p className="card-text">
                     Discover breathtaking, lesser-known travel destinations around the globe.
                   </p>
-                  <Link to="/blog/travel-gems" className="btn btn-outline-primary">Read More</Link>
+                  <Link to="/hidden-travel-gems" className="btn btn-outline-primary">Read More</Link>
                 </div>
               </div>
             </div>

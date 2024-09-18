@@ -8,6 +8,9 @@ import Contact from './pages/Contact';
 import SignIn from './pages/SignIn';
 import SignUp from './pages/SignUp';
 import PrivacyPolicy from './pages/PrivacyPolicy';
+import TechTrends2024 from './pages/TechTrends2024';
+import MinimalistLiving from './pages/MinimalistLiving';
+import HiddenTravelGems from './pages/HiddenTravelGems';
 
 function App() {
   return (
@@ -16,9 +19,12 @@ function App() {
       <div className="container mt-4">
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/tech-trends-2024" element={<TechTrends2024 />} />
+          <Route path="/minimalist-living" element={<MinimalistLiving />} />
+          <Route path="/hidden-travel-gems" element={<HiddenTravelGems />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
-          <Route path="/privacy-policy" element={<PrivacyPolicy />} /> {/* Fixed this line */}
+          <Route path="/privacy-policy" element={<PrivacyPolicy />} />
           <Route path="/signin" element={<SignIn />} />
           <Route path="/signup" element={<SignUp />} />
         </Routes>
