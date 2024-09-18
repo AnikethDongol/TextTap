@@ -23,7 +23,7 @@ const Home = () => {
           <div className="row">
             <div className="col-md-4">
               <div className="card">
-                <img src="./src/assets/image1.jpg" className="card-img-top blog-img" alt="Blog 1" />
+                <img src="https://th.bing.com/th/id/OIP.lUGsZL5waZn9EMPoq91tGQHaEh?rs=1&pid=ImgDetMain" className="card-img-top blog-img" alt="Blog 1" />
                 <div className="card-body">
                   <h5 className="card-title">Tech Trends in 2024</h5>
                   <p className="card-text">
@@ -36,7 +36,7 @@ const Home = () => {
 
             <div className="col-md-4">
               <div className="card">
-                <img src="./src/assets/image2.jpg" className="card-img-top blog-img" alt="Blog 2" />
+                <img src="https://th.bing.com/th/id/OIP.6ByQpMqLnH4LiyKQsrMMmwHaEK?rs=1&pid=ImgDetMain" className="card-img-top blog-img" alt="Blog 2" />
                 <div className="card-body">
                   <h5 className="card-title">A Guide to Minimalist Living</h5>
                   <p className="card-text">
@@ -49,7 +49,7 @@ const Home = () => {
 
             <div className="col-md-4">
               <div className="card">
-                <img src="./src/assets/image3.jpg" className="card-img-top blog-img" alt="Blog 3" />
+                <img src="https://th.bing.com/th/id/OIP.ARrCejouB_-LKiS__gtJCQHaEO?rs=1&pid=ImgDetMain" className="card-img-top blog-img" alt="Blog 3" />
                 <div className="card-body">
                   <h5 className="card-title">Exploring Hidden Travel Gems</h5>
                   <p className="card-text">
@@ -66,7 +66,7 @@ const Home = () => {
         <section className="my-5">
           <div className="row align-items-center">
             <div className="col-md-6">
-              <img src="./src/assets/image4.jpg" className="img-fluid blogger-img" alt="About the Blogger" />
+              <img src="https://th.bing.com/th/id/OIP.N6TmoYKatP27VnFjwR5tWgHaEK?w=512&h=288&rs=1&pid=ImgDetMain" className="img-fluid blogger-img" alt="About the Blogger" />
             </div>
             <div className="col-md-6">
               <h2>About Us</h2>
@@ -89,13 +89,13 @@ const Home = () => {
           <h2 className="text-center mb-4">Follow Us Elsewhere</h2>
           <div className="d-flex justify-content-center">
             <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="mx-3">
-              <img src="./src/assets/instagram.jpg" className="social-media-img" alt="Instagram" />
+              <img src="https://th.bing.com/th/id/OIP.A_QLZ7Y9nBwaWnkhCbvGmQHaHZ?rs=1&pid=ImgDetMain" className="social-media-img" alt="Instagram" />
             </a>
             <a href="https://pinterest.com" target="_blank" rel="noopener noreferrer" className="mx-3">
-              <img src="./src/assets/pinterest.jpg" className="social-media-img" alt="Pinterest" />
+              <img src="https://th.bing.com/th/id/OIP.V5RoSjcG3SmfjaGnf8MyFwHaHa?rs=1&pid=ImgDetMain" className="social-media-img" alt="Pinterest" />
             </a>
             <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="mx-3">
-              <img src="./src/assets/twitter.jpg" className="social-media-img" alt="Twitter" />
+              <img src="https://th.bing.com/th/id/OIP.OiRP0Wt_nlImTXz5w45aRQHaHa?rs=1&pid=ImgDetMain" className="social-media-img" alt="Twitter" />
             </a>
           </div>
         </section>
