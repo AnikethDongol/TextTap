@@ -1,21 +1,48 @@
 /* Featured Blogs Image */
 .blog-img {
-    width: 300px;
-    height: 300px;
-    object-fit: cover;
-  }
-  
-  /* About the Blogger Image */
-  .blogger-img {
-    width: 500px;
-    height: 500px;
-    object-fit: cover;
-  }
-  
-  /* Social Media Icons Image */
-  .social-media-img {
-    width: 100px;
-    height: 100px;
-    object-fit: cover;
-  }
-  
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+
+/* About the Blogger Image */
+.blogger-img {
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+}
+
+/* Social Media Images */
+.social-media-img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 15px;
+}
+
+
+
+.social-icon {
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+/* Footer Links */
+.footer-links a {
+  text-decoration: none;
+  color: #ffffff; /* White text color */
+}
+
+.footer-links a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+
+/* Social Media Links */
+.social-links a {
+  text-decoration: none;
+  color: #ffffff; /* White text color */
+}
+
+.social-links a:hover {
+  text-decoration: underline; /* Underline on hover */
+}

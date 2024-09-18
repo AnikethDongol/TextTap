@@ -59,10 +59,7 @@ const AboutUs = () => {
         </div>
       </section>
 
-      {/* Footer Section */}
-      <footer className="text-center my-5">
-        <p>© 2024 TextTap - All rights reserved.</p>
-      </footer>
+  
     </div>
   );
 };
